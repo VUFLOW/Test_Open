@@ -1,295 +1,295 @@
 nodeID,nodeName,type,name
-0,Node 0,IfcSpace,B101
-1,Node 1,IfcSpace,A205
-2,Node 2,IfcSpace,B201
-3,Node 3,IfcSpace,B205
-4,Node 4,IfcSpace,R301
-5,Node 5,IfcSpace,A105
-6,Node 6,IfcSpace,B105
-7,Node 7,IfcWallStandardCase,Basic Wall:Interior - Partition (92mm Stud):138584
-8,Node 8,IfcWallStandardCase,Basic Wall:Interior - Partition (92mm Stud):139783
-9,Node 9,IfcWallStandardCase,Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:139374
-10,Node 10,IfcWallStandardCase,Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:139234
-11,Node 11,IfcWallStandardCase,Basic Wall:Interior - Partition (92mm Stud):139939
-12,Node 12,IfcWallStandardCase,Basic Wall:Foundation - Concrete (417mm):140554
-13,Node 13,IfcWallStandardCase,Basic Wall:Foundation - Concrete (417mm):140479
-14,Node 14,IfcWallStandardCase,Basic Wall:Foundation - Concrete (417mm):140520
-15,Node 15,IfcWallStandardCase,Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:139347
-16,Node 16,IfcWallStandardCase,Basic Wall:Foundation - Concrete (435mm):141018
-17,Node 17,IfcWallStandardCase,Basic Wall:Foundation - Concrete (417mm):140602
-18,Node 18,IfcWallStandardCase,Basic Wall:Foundation - Concrete (435mm):140913
-19,Node 19,IfcWallStandardCase,Basic Wall:Foundation - Concrete (435mm):140987
-20,Node 20,IfcSlab,Floor:127mm Slab on Grade:143106
-21,Node 21,IfcSlab,Floor:127mm Slab on Grade:141232
-22,Node 22,IfcOpeningElement,M_Fixed:4835mm x 2420mm:4835mm x 2420mm:146016:1
-23,Node 23,IfcWindow,M_Fixed:4835mm x 2420mm:4835mm x 2420mm:145788
-24,Node 24,IfcWall,Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:143239
-25,Node 25,IfcWallStandardCase,Basic Wall:Interior - Plumbing (152mm Stud):144138
-26,Node 26,IfcWallStandardCase,Basic Wall:Interior - Partition (92mm Stud):144301
-27,Node 27,IfcWallStandardCase,Basic Wall:Interior - Partition (92mm Stud):144684
-28,Node 28,IfcWallStandardCase,Basic Wall:Interior - Plumbing (152mm Stud):144783
-29,Node 29,IfcSlab,Floor:Residential - Wood Joist with Subflooring:144872
-30,Node 30,IfcOpeningElement,M_Fixed:4835mm x 2420mm:4835mm x 2420mm:145788:1
-31,Node 31,IfcSlab,Floor:Residential - Wood Joist with Subflooring:144800
-32,Node 32,IfcWindow,M_Fixed:4835mm x 2420mm:4835mm x 2420mm:146016
-33,Node 33,IfcOpeningElement,M_Single-Flush:1250mm x 2010mm:1250mm x 2010mm:146596:1
-34,Node 34,IfcDoor,M_Single-Flush:1250mm x 2010mm:1250mm x 2010mm:146596
-35,Node 35,IfcOpeningElement,M_Single-Flush:1250mm x 2010mm:1250mm x 2010mm:146678:1
-36,Node 36,IfcDoor,M_Single-Flush:1250mm x 2010mm:1250mm x 2010mm:146678
-37,Node 37,IfcOpeningElement,M_Fixed:750mm x 2200mm:750mm x 2200mm:146885:1
-38,Node 38,IfcWallStandardCase,Basic Wall:Exterior - Brick on Block:138157
-39,Node 39,IfcWindow,M_Fixed:750mm x 2200mm:750mm x 2200mm:146885
+0,Node 0,IfcBuildingStorey,Roof
+1,Node 1,IfcBuildingStorey,Level 1
+2,Node 2,IfcBuildingStorey,Level 2
+3,Node 3,IfcBuildingStorey,T/FDN
+4,Node 4,IfcSpace,A101
+5,Node 5,IfcSpace,A201
+6,Node 6,IfcSpace,B104
+7,Node 7,IfcSpace,B101
+8,Node 8,IfcSpace,A205
+9,Node 9,IfcSpace,B205
+10,Node 10,IfcSpace,B201
+11,Node 11,IfcSpace,B105
+12,Node 12,IfcSpace,R301
+13,Node 13,IfcSpace,A105
+14,Node 14,IfcWallStandardCase,Basic Wall:Interior - Partition (92mm Stud):138584
+15,Node 15,IfcWallStandardCase,Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:139374
+16,Node 16,IfcWallStandardCase,Basic Wall:Interior - Partition (92mm Stud):139783
+17,Node 17,IfcWallStandardCase,Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:139234
+18,Node 18,IfcWallStandardCase,Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:139347
+19,Node 19,IfcWallStandardCase,Basic Wall:Foundation - Concrete (417mm):140479
+20,Node 20,IfcWallStandardCase,Basic Wall:Interior - Partition (92mm Stud):139939
+21,Node 21,IfcWallStandardCase,Basic Wall:Foundation - Concrete (417mm):140520
+22,Node 22,IfcWallStandardCase,Basic Wall:Foundation - Concrete (417mm):140554
+23,Node 23,IfcWallStandardCase,Basic Wall:Foundation - Concrete (417mm):140602
+24,Node 24,IfcWallStandardCase,Basic Wall:Foundation - Concrete (435mm):140987
+25,Node 25,IfcWallStandardCase,Basic Wall:Foundation - Concrete (435mm):140913
+26,Node 26,IfcWallStandardCase,Basic Wall:Foundation - Concrete (435mm):141018
+27,Node 27,IfcSlab,Floor:127mm Slab on Grade:141232
+28,Node 28,IfcSlab,Floor:127mm Slab on Grade:143106
+29,Node 29,IfcWall,Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:143239
+30,Node 30,IfcWallStandardCase,Basic Wall:Interior - Partition (92mm Stud):144684
+31,Node 31,IfcWallStandardCase,Basic Wall:Interior - Plumbing (152mm Stud):144138
+32,Node 32,IfcWallStandardCase,Basic Wall:Interior - Partition (92mm Stud):144301
+33,Node 33,IfcWallStandardCase,Basic Wall:Interior - Plumbing (152mm Stud):144783
+34,Node 34,IfcOpeningElement,M_Fixed:4835mm x 2420mm:4835mm x 2420mm:145788:1
+35,Node 35,IfcSlab,Floor:Residential - Wood Joist with Subflooring:144800
+36,Node 36,IfcSlab,Floor:Residential - Wood Joist with Subflooring:144872
+37,Node 37,IfcOpeningElement,M_Fixed:4835mm x 2420mm:4835mm x 2420mm:146016:1
+38,Node 38,IfcWindow,M_Fixed:4835mm x 2420mm:4835mm x 2420mm:145788
+39,Node 39,IfcOpeningElement,M_Fixed:750mm x 2200mm:750mm x 2200mm:147051:1
 40,Node 40,IfcWallStandardCase,Basic Wall:Exterior - Brick on Block:138310
-41,Node 41,IfcOpeningElement,M_Fixed:750mm x 2200mm:750mm x 2200mm:147051:1
-42,Node 42,IfcWindow,M_Casement:819mm x 759mm:819mm x 759mm:148607
-43,Node 43,IfcWindow,M_Fixed:750mm x 2200mm:750mm x 2200mm:147051
-44,Node 44,IfcOpeningElement,M_Fixed:2800mm x 2410mm:2800mm x 2410mm:147686:1
-45,Node 45,IfcWindow,M_Fixed:2800mm x 2410mm:2800mm x 2410mm:147686
-46,Node 46,IfcOpeningElement,M_Fixed:819mm x 759mm:819mm x 759mm:147994:1
-47,Node 47,IfcWindow,M_Fixed:819mm x 759mm:819mm x 759mm:147994
-48,Node 48,IfcOpeningElement,M_Casement:819mm x 759mm:819mm x 759mm:148607:1
-49,Node 49,IfcOpeningElement,M_Fixed:819mm x 759mm:819mm x 759mm:148722:1
-50,Node 50,IfcWallStandardCase,Basic Wall:Exterior - Brick on Block:143410
-51,Node 51,IfcOpeningElement,M_Fixed:2800mm x 2410mm:2800mm x 2410mm:149278:1
-52,Node 52,IfcWindow,M_Fixed:819mm x 759mm:819mm x 759mm:148722
-53,Node 53,IfcOpeningElement,M_Fixed:819mm x 759mm:819mm x 759mm:149537:1
-54,Node 54,IfcWindow,M_Fixed:2800mm x 2410mm:2800mm x 2410mm:149278
-55,Node 55,IfcWindow,M_Fixed:819mm x 759mm:819mm x 759mm:149537
-56,Node 56,IfcOpeningElement,M_Casement:819mm x 759mm:819mm x 759mm:149736:1
-57,Node 57,IfcWallStandardCase,Basic Wall:Interior - Partition (92mm Stud):143856
-58,Node 58,IfcDoor,M_Single-Flush:0762 x 2032mm:0762 x 2032mm:150257
-59,Node 59,IfcWindow,M_Casement:819mm x 759mm:819mm x 759mm:149736
-60,Node 60,IfcWallStandardCase,Basic Wall:Exterior - Brick on Block:143534
-61,Node 61,IfcOpeningElement,M_Fixed:819mm x 759mm:819mm x 759mm:149924:1
-62,Node 62,IfcWallStandardCase,Basic Wall:Interior - Partition (92mm Stud):139682
-63,Node 63,IfcWindow,M_Fixed:819mm x 759mm:819mm x 759mm:149924
-64,Node 64,IfcOpeningElement,M_Single-Flush:0762 x 2032mm:0762 x 2032mm:150173:1
-65,Node 65,IfcDoor,M_Single-Flush:0762 x 2032mm:0762 x 2032mm:150173
-66,Node 66,IfcWallStandardCase,Basic Wall:Interior - Partition (92mm Stud):139143
-67,Node 67,IfcOpeningElement,M_Single-Flush:0762 x 2032mm:0762 x 2032mm:150257:1
-68,Node 68,IfcOpeningElement,M_Single-Flush:0864 x 2032mm:0864 x 2032mm:150378:1
+41,Node 41,IfcWindow,M_Fixed:750mm x 2200mm:750mm x 2200mm:146885
+42,Node 42,IfcWindow,M_Fixed:4835mm x 2420mm:4835mm x 2420mm:146016
+43,Node 43,IfcOpeningElement,M_Single-Flush:1250mm x 2010mm:1250mm x 2010mm:146596:1
+44,Node 44,IfcDoor,M_Single-Flush:1250mm x 2010mm:1250mm x 2010mm:146596
+45,Node 45,IfcOpeningElement,M_Single-Flush:1250mm x 2010mm:1250mm x 2010mm:146678:1
+46,Node 46,IfcDoor,M_Single-Flush:1250mm x 2010mm:1250mm x 2010mm:146678
+47,Node 47,IfcWallStandardCase,Basic Wall:Exterior - Brick on Block:138157
+48,Node 48,IfcOpeningElement,M_Fixed:750mm x 2200mm:750mm x 2200mm:146885:1
+49,Node 49,IfcWindow,M_Casement:819mm x 759mm:819mm x 759mm:148607
+50,Node 50,IfcWindow,M_Fixed:750mm x 2200mm:750mm x 2200mm:147051
+51,Node 51,IfcOpeningElement,M_Fixed:2800mm x 2410mm:2800mm x 2410mm:147686:1
+52,Node 52,IfcWindow,M_Fixed:2800mm x 2410mm:2800mm x 2410mm:147686
+53,Node 53,IfcOpeningElement,M_Fixed:819mm x 759mm:819mm x 759mm:147994:1
+54,Node 54,IfcWindow,M_Fixed:819mm x 759mm:819mm x 759mm:147994
+55,Node 55,IfcOpeningElement,M_Casement:819mm x 759mm:819mm x 759mm:148607:1
+56,Node 56,IfcWindow,M_Casement:819mm x 759mm:819mm x 759mm:149736
+57,Node 57,IfcWallStandardCase,Basic Wall:Exterior - Brick on Block:143534
+58,Node 58,IfcOpeningElement,M_Fixed:819mm x 759mm:819mm x 759mm:149924:1
+59,Node 59,IfcWallStandardCase,Basic Wall:Interior - Partition (92mm Stud):139682
+60,Node 60,IfcWindow,M_Fixed:819mm x 759mm:819mm x 759mm:149924
+61,Node 61,IfcOpeningElement,M_Single-Flush:0762 x 2032mm:0762 x 2032mm:150173:1
+62,Node 62,IfcWallStandardCase,Basic Wall:Interior - Partition (92mm Stud):139143
+63,Node 63,IfcOpeningElement,M_Single-Flush:0762 x 2032mm:0762 x 2032mm:150257:1
+64,Node 64,IfcDoor,M_Single-Flush:0762 x 2032mm:0762 x 2032mm:150173
+65,Node 65,IfcDoor,M_Single-Flush:0762 x 2032mm:0762 x 2032mm:150257
+66,Node 66,IfcOpeningElement,M_Single-Flush:0864 x 2032mm:0864 x 2032mm:150378:1
+67,Node 67,IfcWallStandardCase,Basic Wall:Interior - Partition (92mm Stud):143856
+68,Node 68,IfcDoor,M_Single-Flush:0864 x 2032mm:0864 x 2032mm:150378
 69,Node 69,IfcWallStandardCase,Basic Wall:Interior - Partition (92mm Stud):144518
-70,Node 70,IfcDoor,M_Single-Flush:0864 x 2032mm:0864 x 2032mm:150378
-71,Node 71,IfcOpeningElement,M_Single-Flush:0864 x 2032mm:0864 x 2032mm:150478:1
-72,Node 72,IfcDoor,M_Single-Flush:0864 x 2032mm:0864 x 2032mm:150478
-73,Node 73,IfcStairFlight,Stair:Residential - 200mm Max Riser 250mm Tread:151086:1
-74,Node 74,IfcStair,Stair:Residential - 200mm Max Riser 250mm Tread:151086
-75,Node 75,IfcMember,Stair:Residential - 200mm Max Riser 250mm Tread:151086:1
-76,Node 76,IfcMember,Stair:Residential - 200mm Max Riser 250mm Tread:151086:2
-77,Node 77,IfcRailing,Railing:900mm Handrail Only:151162
-78,Node 78,IfcRailing,Railing:1100mm Guard Rail:151166
-79,Node 79,IfcOpeningElement,M_Tall Cabinet-Single Door(2):800 mm:800 mm:157200:1
-80,Node 80,IfcFurnishingElement,M_Tall Cabinet-Single Door(2):800 mm:800 mm:157200
-81,Node 81,IfcOpeningElement,M_Tall Cabinet-Single Door(2):800 mm:800 mm:157607:1
-82,Node 82,IfcFurnishingElement,M_Tall Cabinet-Single Door(2):800 mm:800 mm:157607
-83,Node 83,IfcOpeningElement,M_Single-Flush:0864 x 2032mm:0864 x 2032mm:159834:1
-84,Node 84,IfcWallStandardCase,Basic Wall:Interior - Partition (92mm Stud):144633
-85,Node 85,IfcFurnishingElement,M_Tall Cabinet-Single Door(2):800 mm:800 mm:157950
-86,Node 86,IfcOpeningElement,M_Tall Cabinet-Single Door(2):800 mm:800 mm:157950:1
-87,Node 87,IfcFurnishingElement,M_Tall Cabinet-Single Door(2):800 mm:800 mm:157951
-88,Node 88,IfcOpeningElement,M_Tall Cabinet-Single Door(2):800 mm:800 mm:157951:1
-89,Node 89,IfcFurnishingElement,M_Tall Cabinet-Single Door(2):800 mm:800 mm:157983
-90,Node 90,IfcDoor,M_Single-Flush:0864 x 2032mm:0864 x 2032mm:159834
-91,Node 91,IfcOpeningElement,M_Tall Cabinet-Single Door(2):800 mm:800 mm:157983:1
-92,Node 92,IfcFurnishingElement,M_Tall Cabinet-Single Door(2):800 mm:800 mm:157984
-93,Node 93,IfcOpeningElement,M_Tall Cabinet-Single Door(2):800 mm:800 mm:157984:1
-94,Node 94,IfcWallStandardCase,Basic Wall:Interior - Partition (92mm Stud):143921
-95,Node 95,IfcOpeningElement,M_Single-Flush:0864 x 2032mm:0864 x 2032mm:160065:1
-96,Node 96,IfcFurnishingElement,M_Tall Cabinet-Single Door(2):800 mm:800 mm:158080
-97,Node 97,IfcOpeningElement,M_Tall Cabinet-Single Door(2):800 mm:800 mm:158080:1
-98,Node 98,IfcFurnishingElement,M_Tall Cabinet-Single Door(2):800 mm:800 mm:158081
-99,Node 99,IfcOpeningElement,M_Tall Cabinet-Single Door(2):800 mm:800 mm:158081:1
-100,Node 100,IfcDoor,M_Single-Flush:0864 x 2032mm:0864 x 2032mm:160065
-101,Node 101,IfcWallStandardCase,Basic Wall:Interior - Partition (92mm Stud):144586
-102,Node 102,IfcFurnishingElement,M_Base Cabinet-Double Door & 2 Drawer:1000mm:1000mm:159159
-103,Node 103,IfcFurnishingElement,M_Base Cabinet-Double Door & 2 Drawer:1000mm:1000mm:159262
-104,Node 104,IfcWallStandardCase,Basic Wall:Interior - Partition (92mm Stud):143960
+70,Node 70,IfcOpeningElement,M_Single-Flush:0864 x 2032mm:0864 x 2032mm:150478:1
+71,Node 71,IfcDoor,M_Single-Flush:0864 x 2032mm:0864 x 2032mm:150478
+72,Node 72,IfcOpeningElement,M_Fixed:819mm x 759mm:819mm x 759mm:148722:1
+73,Node 73,IfcWallStandardCase,Basic Wall:Exterior - Brick on Block:143410
+74,Node 74,IfcWindow,M_Fixed:819mm x 759mm:819mm x 759mm:148722
+75,Node 75,IfcOpeningElement,M_Fixed:2800mm x 2410mm:2800mm x 2410mm:149278:1
+76,Node 76,IfcOpeningElement,M_Fixed:819mm x 759mm:819mm x 759mm:149537:1
+77,Node 77,IfcWindow,M_Fixed:2800mm x 2410mm:2800mm x 2410mm:149278
+78,Node 78,IfcWindow,M_Fixed:819mm x 759mm:819mm x 759mm:149537
+79,Node 79,IfcOpeningElement,M_Casement:819mm x 759mm:819mm x 759mm:149736:1
+80,Node 80,IfcStairFlight,Stair:Residential - 200mm Max Riser 250mm Tread:151086:1
+81,Node 81,IfcMember,Stair:Residential - 200mm Max Riser 250mm Tread:151086:1
+82,Node 82,IfcMember,Stair:Residential - 200mm Max Riser 250mm Tread:151086:2
+83,Node 83,IfcStair,Stair:Residential - 200mm Max Riser 250mm Tread:151086
+84,Node 84,IfcRailing,Railing:900mm Handrail Only:151162
+85,Node 85,IfcRailing,Railing:1100mm Guard Rail:151166
+86,Node 86,IfcFurnishingElement,M_Tall Cabinet-Single Door(2):800 mm:800 mm:157200
+87,Node 87,IfcOpeningElement,M_Tall Cabinet-Single Door(2):800 mm:800 mm:157200:1
+88,Node 88,IfcFurnishingElement,M_Tall Cabinet-Single Door(2):800 mm:800 mm:157983
+89,Node 89,IfcFurnishingElement,M_Tall Cabinet-Single Door(2):800 mm:800 mm:157607
+90,Node 90,IfcOpeningElement,M_Tall Cabinet-Single Door(2):800 mm:800 mm:157607:1
+91,Node 91,IfcFurnishingElement,M_Tall Cabinet-Single Door(2):800 mm:800 mm:157950
+92,Node 92,IfcOpeningElement,M_Tall Cabinet-Single Door(2):800 mm:800 mm:157983:1
+93,Node 93,IfcOpeningElement,M_Tall Cabinet-Single Door(2):800 mm:800 mm:157950:1
+94,Node 94,IfcOpeningElement,M_Tall Cabinet-Single Door(2):800 mm:800 mm:157951:1
+95,Node 95,IfcFurnishingElement,M_Tall Cabinet-Single Door(2):800 mm:800 mm:157951
+96,Node 96,IfcFurnishingElement,M_Counter Top w Sink Hole:600mm Depth:600mm Depth:161165
+97,Node 97,IfcOpeningElement,M_Tall Cabinet-Single Door(2):800 mm:800 mm:157984:1
+98,Node 98,IfcFurnishingElement,M_Tall Cabinet-Single Door(2):800 mm:800 mm:157984
+99,Node 99,IfcFurnishingElement,M_Tall Cabinet-Single Door(2):800 mm:800 mm:158080
+100,Node 100,IfcOpeningElement,M_Tall Cabinet-Single Door(2):800 mm:800 mm:158080:1
+101,Node 101,IfcFurnishingElement,M_Tall Cabinet-Single Door(2):800 mm:800 mm:158081
+102,Node 102,IfcOpeningElement,M_Tall Cabinet-Single Door(2):800 mm:800 mm:158081:1
+103,Node 103,IfcFurnishingElement,M_Base Cabinet-Double Door & 2 Drawer:1000mm:1000mm:159159
+104,Node 104,IfcFurnishingElement,M_Base Cabinet-Double Door & 2 Drawer:1000mm:1000mm:159262
 105,Node 105,IfcOpeningElement,M_Single-Flush:0864 x 2032mm:0864 x 2032mm:159734:1
-106,Node 106,IfcDoor,M_Single-Flush:0864 x 2032mm:0864 x 2032mm:159734
-107,Node 107,IfcOpeningElement,M_Single-Flush:0864 x 2032mm:0864 x 2032mm:160208:1
-108,Node 108,IfcDoor,M_Single-Flush:0864 x 2032mm:0864 x 2032mm:160208
-109,Node 109,IfcFurnishingElement,M_Base Cabinet-Double Door & 2 Drawer:1000mm:1000mm:160671
-110,Node 110,IfcFurnishingElement,M_Base Cabinet-Double Door & 2 Drawer:1000mm:1000mm:160717
-111,Node 111,IfcFurnishingElement,M_Counter Top w Sink Hole:600mm Depth:600mm Depth:161165
-112,Node 112,IfcOpeningElement,M_Counter Top w Sink Hole:600mm Depth:600mm Depth:161165:1
-113,Node 113,IfcFurnishingElement,M_Counter Top:600mm Depth:600mm Depth:161646
-114,Node 114,IfcFurnishingElement,M_Counter Top:600mm Depth:600mm Depth:162231
-115,Node 115,IfcFurnishingElement,M_Base Cabinet-Double Door & 2 Drawer:1000mm:1000mm:162230
-116,Node 116,IfcFurnishingElement,M_Base Cabinet-Double Door & 2 Drawer:1000mm:1000mm:162311
-117,Node 117,IfcFurnishingElement,M_Base Cabinet-Double Door & 2 Drawer:1000mm:1000mm:162357
-118,Node 118,IfcFurnishingElement,M_Base Cabinet-Double Door & 2 Drawer:1000mm:1000mm:162487
-119,Node 119,IfcFurnishingElement,M_Base Cabinet-Double Door & 2 Drawer:1000mm:1000mm:162383
-120,Node 120,IfcFurnishingElement,M_Base Cabinet-Double Door & 2 Drawer:1000mm:1000mm:162486
-121,Node 121,IfcFurnishingElement,M_Sofa:1830mm:1830mm:167426
-122,Node 122,IfcFurnishingElement,M_Base Cabinet-Double Door & 2 Drawer:1000mm:1000mm:162488
-123,Node 123,IfcFurnishingElement,M_Base Cabinet-Double Door & 2 Drawer:1000mm:1000mm:162489
-124,Node 124,IfcFurnishingElement,M_Counter Top w Sink Hole:600mm Depth:600mm Depth:162490
-125,Node 125,IfcOpeningElement,M_Counter Top w Sink Hole:600mm Depth:600mm Depth:162490:1
-126,Node 126,IfcFurnishingElement,M_Counter Top:600mm Depth:600mm Depth:162491
-127,Node 127,IfcFurnishingElement,M_Base Cabinet-Double Door & 2 Drawer:1000mm:1000mm:162493
-128,Node 128,IfcFurnishingElement,M_Counter Top:600mm Depth:600mm Depth:162494
-129,Node 129,IfcFurnishingElement,M_Table-Coffee:0610 x 0610 x 0610mm:0610 x 0610 x 0610mm:167584
-130,Node 130,IfcFurnishingElement,M_Base Cabinet-Double Door & 2 Drawer:1000mm:1000mm:162495
-131,Node 131,IfcFurnishingElement,M_Base Cabinet-Double Door & 2 Drawer:1000mm:1000mm:162496
-132,Node 132,IfcFurnishingElement,M_Base Cabinet-Double Door & 2 Drawer:1000mm:1000mm:162497
-133,Node 133,IfcFurnishingElement,M_Sofa:1830mm:1830mm:167283
-134,Node 134,IfcFurnishingElement,M_Table-Coffee:0610 x 0610 x 0610mm:0610 x 0610 x 0610mm:167655
-135,Node 135,IfcSpace,B102
-136,Node 136,IfcFurnishingElement,M_Table-Coffee:0915 x 1830 x 0457mm:0915 x 1830 x 0457mm:168031
-137,Node 137,IfcFurnishingElement,M_Sofa:1830mm:1830mm:168377
-138,Node 138,IfcFurnishingElement,M_Sofa:1830mm:1830mm:168378
-139,Node 139,IfcFurnishingElement,M_Table-Coffee:0610 x 0610 x 0610mm:0610 x 0610 x 0610mm:168379
-140,Node 140,IfcFurnishingElement,M_Table-Coffee:0610 x 0610 x 0610mm:0610 x 0610 x 0610mm:168380
-141,Node 141,IfcSpace,A102
-142,Node 142,IfcFurnishingElement,M_Table-Coffee:0915 x 1830 x 0457mm:0915 x 1830 x 0457mm:168381
-143,Node 143,IfcFurnishingElement,M_Bed-Standard:1525 x 2007mm - Queen:1525 x 2007mm - Queen:168449
-144,Node 144,IfcFurnishingElement,M_Bed-Standard:1981 x 2032mm - King:1981 x 2032mm - King:168717
-145,Node 145,IfcFurnishingElement,M_Bed-Standard:1981 x 2032mm - King:1981 x 2032mm - King:168914
-146,Node 146,IfcFurnishingElement,M_Bed-Standard:1525 x 2007mm - Queen:1525 x 2007mm - Queen:169008
-147,Node 147,IfcSlab,Floor:Finish Floor - Wood:169093
-148,Node 148,IfcSlab,Floor:Finish Floor - Wood:169308
-149,Node 149,IfcSlab,Floor:Finish Floor - Wood:169188
-150,Node 150,IfcSlab,Floor:Finish Floor - Wood:169354
-151,Node 151,IfcSlab,Floor:Finish Floor - Wood:169701
+106,Node 106,IfcWallStandardCase,Basic Wall:Interior - Partition (92mm Stud):143960
+107,Node 107,IfcWallStandardCase,Basic Wall:Interior - Partition (92mm Stud):144633
+108,Node 108,IfcDoor,M_Single-Flush:0864 x 2032mm:0864 x 2032mm:159734
+109,Node 109,IfcOpeningElement,M_Single-Flush:0864 x 2032mm:0864 x 2032mm:159834:1
+110,Node 110,IfcDoor,M_Single-Flush:0864 x 2032mm:0864 x 2032mm:159834
+111,Node 111,IfcOpeningElement,M_Single-Flush:0864 x 2032mm:0864 x 2032mm:160065:1
+112,Node 112,IfcWallStandardCase,Basic Wall:Interior - Partition (92mm Stud):143921
+113,Node 113,IfcDoor,M_Single-Flush:0864 x 2032mm:0864 x 2032mm:160065
+114,Node 114,IfcWallStandardCase,Basic Wall:Interior - Partition (92mm Stud):144586
+115,Node 115,IfcOpeningElement,M_Single-Flush:0864 x 2032mm:0864 x 2032mm:160208:1
+116,Node 116,IfcDoor,M_Single-Flush:0864 x 2032mm:0864 x 2032mm:160208
+117,Node 117,IfcFurnishingElement,M_Base Cabinet-Double Door & 2 Drawer:1000mm:1000mm:160671
+118,Node 118,IfcFurnishingElement,M_Base Cabinet-Double Door & 2 Drawer:1000mm:1000mm:160717
+119,Node 119,IfcFurnishingElement,M_Counter Top:600mm Depth:600mm Depth:162491
+120,Node 120,IfcFurnishingElement,M_Base Cabinet-Double Door & 2 Drawer:1000mm:1000mm:162493
+121,Node 121,IfcFurnishingElement,M_Counter Top:600mm Depth:600mm Depth:162494
+122,Node 122,IfcFurnishingElement,M_Base Cabinet-Double Door & 2 Drawer:1000mm:1000mm:162495
+123,Node 123,IfcFurnishingElement,M_Sofa:1830mm:1830mm:168378
+124,Node 124,IfcFurnishingElement,M_Base Cabinet-Double Door & 2 Drawer:1000mm:1000mm:162496
+125,Node 125,IfcFurnishingElement,M_Base Cabinet-Double Door & 2 Drawer:1000mm:1000mm:162497
+126,Node 126,IfcFurnishingElement,M_Sofa:1830mm:1830mm:167283
+127,Node 127,IfcFurnishingElement,M_Sofa:1830mm:1830mm:167426
+128,Node 128,IfcFurnishingElement,M_Table-Coffee:0610 x 0610 x 0610mm:0610 x 0610 x 0610mm:167584
+129,Node 129,IfcFurnishingElement,M_Table-Coffee:0610 x 0610 x 0610mm:0610 x 0610 x 0610mm:167655
+130,Node 130,IfcSpace,B102
+131,Node 131,IfcFurnishingElement,M_Table-Coffee:0915 x 1830 x 0457mm:0915 x 1830 x 0457mm:168031
+132,Node 132,IfcFurnishingElement,M_Sofa:1830mm:1830mm:168377
+133,Node 133,IfcFurnishingElement,M_Counter Top:600mm Depth:600mm Depth:161646
+134,Node 134,IfcOpeningElement,M_Counter Top w Sink Hole:600mm Depth:600mm Depth:161165:1
+135,Node 135,IfcFurnishingElement,M_Base Cabinet-Double Door & 2 Drawer:1000mm:1000mm:162230
+136,Node 136,IfcFurnishingElement,M_Counter Top:600mm Depth:600mm Depth:162231
+137,Node 137,IfcOpeningElement,M_Counter Top w Sink Hole:600mm Depth:600mm Depth:162490:1
+138,Node 138,IfcFurnishingElement,M_Base Cabinet-Double Door & 2 Drawer:1000mm:1000mm:162489
+139,Node 139,IfcFurnishingElement,M_Base Cabinet-Double Door & 2 Drawer:1000mm:1000mm:162311
+140,Node 140,IfcFurnishingElement,M_Base Cabinet-Double Door & 2 Drawer:1000mm:1000mm:162357
+141,Node 141,IfcFurnishingElement,M_Base Cabinet-Double Door & 2 Drawer:1000mm:1000mm:162383
+142,Node 142,IfcFurnishingElement,M_Counter Top w Sink Hole:600mm Depth:600mm Depth:162490
+143,Node 143,IfcFurnishingElement,M_Base Cabinet-Double Door & 2 Drawer:1000mm:1000mm:162486
+144,Node 144,IfcFurnishingElement,M_Base Cabinet-Double Door & 2 Drawer:1000mm:1000mm:162487
+145,Node 145,IfcFurnishingElement,M_Base Cabinet-Double Door & 2 Drawer:1000mm:1000mm:162488
+146,Node 146,IfcFurnishingElement,M_Table-Coffee:0610 x 0610 x 0610mm:0610 x 0610 x 0610mm:168379
+147,Node 147,IfcSpace,A102
+148,Node 148,IfcFurnishingElement,M_Table-Coffee:0610 x 0610 x 0610mm:0610 x 0610 x 0610mm:168380
+149,Node 149,IfcFurnishingElement,M_Table-Coffee:0915 x 1830 x 0457mm:0915 x 1830 x 0457mm:168381
+150,Node 150,IfcFurnishingElement,M_Bed-Standard:1525 x 2007mm - Queen:1525 x 2007mm - Queen:168449
+151,Node 151,IfcFurnishingElement,M_Bed-Standard:1981 x 2032mm - King:1981 x 2032mm - King:168717
 152,Node 152,IfcSlab,Floor:Finish Floor - Wood:169395
-153,Node 153,IfcSlab,Floor:Finish Floor - Ceramic Tile:169866
+153,Node 153,IfcSlab,Floor:Finish Floor - Wood:169701
 154,Node 154,IfcSlab,Floor:Finish Floor - Ceramic Tile:169772
-155,Node 155,IfcSlab,Floor:Finish Floor - Wood:170352
-156,Node 156,IfcSlab,Floor:Finish Floor - Ceramic Tile:170785
-157,Node 157,IfcSlab,Floor:Finish Floor - Ceramic Tile:171230
-158,Node 158,IfcSlab,Floor:Finish Floor - Ceramic Tile:171261
-159,Node 159,IfcSlab,Floor:Finish Floor - Wood:171292
-160,Node 160,IfcWallStandardCase,Basic Wall:Exterior - Brick on Block:138062
-161,Node 161,IfcSlab,Floor:Finish Floor - Ceramic Tile:171444
-162,Node 162,IfcOpeningElement,M_Single-Glass 1:0813 x 2420mm:0813 x 2420mm:171853:1
-163,Node 163,IfcDoor,M_Single-Glass 1:0813 x 2420mm:0813 x 2420mm:171853
-164,Node 164,IfcOpeningElement,M_Single-Glass 1:0813 x 2420mm:0813 x 2420mm:171975:1
-165,Node 165,IfcWallStandardCase,Basic Wall:Exterior - Brick on Block:138237
-166,Node 166,IfcDoor,M_Single-Glass 1:0813 x 2420mm:0813 x 2420mm:171975
-167,Node 167,IfcOpeningElement,M_Fixed:2800mm x 2410mm:2800mm x 2410mm:180318:1
-168,Node 168,IfcWindow,M_Fixed:2800mm x 2410mm:2800mm x 2410mm:180318
-169,Node 169,IfcOpeningElement,M_Fixed:819mm x 759mm:819mm x 759mm:180663:1
-170,Node 170,IfcOpeningElement,M_Fixed:819mm x 759mm:819mm x 759mm:180864:1
-171,Node 171,IfcWindow,M_Fixed:819mm x 759mm:819mm x 759mm:180663
-172,Node 172,IfcWindow,M_Fixed:819mm x 759mm:819mm x 759mm:180864
-173,Node 173,IfcOpeningElement,M_Casement:819mm x 759mm:819mm x 759mm:180994:1
-174,Node 174,IfcWindow,M_Casement:819mm x 759mm:819mm x 759mm:180994
-175,Node 175,IfcOpeningElement,M_Fixed:2800mm x 2410mm:2800mm x 2410mm:181096:1
-176,Node 176,IfcOpeningElement,M_Fixed:819mm x 759mm:819mm x 759mm:181285:1
-177,Node 177,IfcWindow,M_Fixed:2800mm x 2410mm:2800mm x 2410mm:181096
-178,Node 178,IfcOpeningElement,M_Casement:819mm x 759mm:819mm x 759mm:181548:1
-179,Node 179,IfcWindow,M_Fixed:819mm x 759mm:819mm x 759mm:181285
-180,Node 180,IfcWindow,M_Casement:819mm x 759mm:819mm x 759mm:181548
-181,Node 181,IfcOpeningElement,M_Fixed:819mm x 759mm:819mm x 759mm:181583:1
-182,Node 182,IfcWindow,M_Fixed:819mm x 759mm:819mm x 759mm:181583
-183,Node 183,IfcOpeningElement,M_Fixed:750mm x 2200mm:750mm x 2200mm:181930:1
-184,Node 184,IfcWallStandardCase,Basic Wall:Exterior - Brick on Block:143478
-185,Node 185,IfcWindow,M_Fixed:750mm x 2200mm:750mm x 2200mm:181930
-186,Node 186,IfcWallStandardCase,Basic Wall:Exterior - Brick on Block:143590
-187,Node 187,IfcOpeningElement,M_Fixed:750mm x 2200mm:750mm x 2200mm:182101:1
-188,Node 188,IfcWindow,M_Fixed:750mm x 2200mm:750mm x 2200mm:182101
-189,Node 189,IfcRoof,Basic Roof:Live Roof over Wood Joist Flat Roof:184483
-190,Node 190,IfcSlab,Basic Roof:Live Roof over Wood Joist Flat Roof:184483
-191,Node 191,IfcOpeningElement,Basic Roof:Live Roof over Wood Joist Flat Roof:184483:3
-192,Node 192,IfcWallStandardCase,Basic Wall:Exterior - Brick on Block:185014
-193,Node 193,IfcWallStandardCase,Basic Wall:Exterior - Brick on Block:184944
-194,Node 194,IfcOpeningElement,Basic Roof:Live Roof over Wood Joist Flat Roof:184483:2
-195,Node 195,IfcOpeningElement,Untitled
-196,Node 196,IfcWallStandardCase,Basic Wall:Exterior - Brick on Block:185101
-197,Node 197,IfcWallStandardCase,Basic Wall:Exterior - Brick on Block:185064
-198,Node 198,IfcWindow,M_Skylight:1180 x 1170mm:1180 x 1170mm:185337
-199,Node 199,IfcOpeningElement,Untitled
-200,Node 200,IfcCovering,Compound Ceiling:Gypsum Board:187149
-201,Node 201,IfcCovering,Compound Ceiling:Gypsum Board:187462
-202,Node 202,IfcWindow,M_Skylight:1180 x 1170mm:1180 x 1170mm:185718
-203,Node 203,IfcFooting,Wall Foundation:Bearing Footing - 900 x 300:186604
-204,Node 204,IfcFooting,Wall Foundation:Bearing Footing - 900 x 300:186596
-205,Node 205,IfcFooting,Wall Foundation:Bearing Footing - 900 x 300:186644
-206,Node 206,IfcFooting,Wall Foundation:Bearing Footing - 900 x 300:186612
-207,Node 207,IfcFooting,Wall Foundation:Bearing Footing - 900 x 300:186620
-208,Node 208,IfcFooting,Wall Foundation:Bearing Footing - 900 x 300:186632
-209,Node 209,IfcFooting,Wall Foundation:Bearing Footing - 900 x 300:186656
-210,Node 210,IfcCovering,Compound Ceiling:Gypsum Board:187483
-211,Node 211,IfcCovering,Compound Ceiling:Gypsum Board:187508
-212,Node 212,IfcCovering,Compound Ceiling:Gypsum Board:187649
-213,Node 213,IfcCovering,Compound Ceiling:Gypsum Board:187639
-214,Node 214,IfcCovering,Compound Ceiling:Gypsum Board:187659
-215,Node 215,IfcCovering,Compound Ceiling:Gypsum Board:187667
-216,Node 216,IfcCovering,Compound Ceiling:Gypsum Board:187675
-217,Node 217,IfcCovering,Compound Ceiling:Gypsum Board:187691
-218,Node 218,IfcCovering,Compound Ceiling:Gypsum Board:187683
-219,Node 219,IfcCovering,Compound Ceiling:Gypsum Board:187701
-220,Node 220,IfcWallStandardCase,Basic Wall:Interior - Partition (92mm Stud):190140
-221,Node 221,IfcWallStandardCase,Basic Wall:Interior - Furring (152 mm Stud):190774
-222,Node 222,IfcWallStandardCase,Basic Wall:Interior - Furring (152 mm Stud):189074
-223,Node 223,IfcWallStandardCase,Basic Wall:Interior - Furring (152 mm Stud):189901
-224,Node 224,IfcWallStandardCase,Basic Wall:Interior - Furring (152 mm Stud):190933
-225,Node 225,IfcFurnishingElement,M_Upper Cabinet-Double Door-Wall:1000 mm:1000 mm:191401
-226,Node 226,IfcFurnishingElement,M_Upper Cabinet-Double Door-Wall:1000 mm:1000 mm:191557
-227,Node 227,IfcSpace,A103
-228,Node 228,IfcFurnishingElement,M_Upper Cabinet-Double Door-Wall:1000 mm:1000 mm:191680
-229,Node 229,IfcFurnishingElement,M_Upper Cabinet-Double Door-Wall:1000mm:1000mm:191768
-230,Node 230,IfcFurnishingElement,M_Upper Cabinet-Double Door-Wall:1000 mm:1000 mm:192331
-231,Node 231,IfcFurnishingElement,M_Upper Cabinet-Double Door-Wall:1000 mm:1000 mm:192153
-232,Node 232,IfcFurnishingElement,M_Upper Cabinet-Double Door-Wall:1000mm:1000mm:192610
-233,Node 233,IfcWallStandardCase,Basic Wall:Interior - Furring (152 mm Stud):193247
-234,Node 234,IfcWallStandardCase,Basic Wall:Interior - Furring (152 mm Stud):194166
-235,Node 235,IfcStairFlight,Stair:Residential - 200mm Max Riser 250mm Tread:198878:1
-236,Node 236,IfcMember,Stair:Residential - 200mm Max Riser 250mm Tread:198878:2
-237,Node 237,IfcStair,Stair:Residential - 200mm Max Riser 250mm Tread:198878
-238,Node 238,IfcMember,Stair:Residential - 200mm Max Riser 250mm Tread:198878:1
-239,Node 239,IfcRailing,Railing:900mm Handrail Only:198880
-240,Node 240,IfcFurnishingElement,M_Upper Cabinet-Double Door-Wall:1000 mm:1000 mm:192508
-241,Node 241,IfcSpace,B103
-242,Node 242,IfcSpace,A202
-243,Node 243,IfcSpace,B202
-244,Node 244,IfcFurnishingElement,M_Table-Coffee:0610 x 0610 x 0610mm:0610 x 0610 x 0610mm:206502
-245,Node 245,IfcSpace,A203
-246,Node 246,IfcFurnishingElement,M_Table-Coffee:0610 x 0610 x 0610mm:0610 x 0610 x 0610mm:206675
-247,Node 247,IfcFurnishingElement,M_Table-Coffee:0610 x 0610 x 0610mm:0610 x 0610 x 0610mm:206876
-248,Node 248,IfcBeam,M_W-Wide Flange:W310X60:W310X60:207325
-249,Node 249,IfcBeam,M_W-Wide Flange:W410X60:W410X60:208949
-250,Node 250,IfcBeam,M_W-Wide Flange:W410X60:W410X60:209121
-251,Node 251,IfcBeam,M_W-Wide Flange:W410X60:W410X60:209166
-252,Node 252,IfcBeam,M_W-Wide Flange:W310X60:W310X60:209260
-253,Node 253,IfcBeam,M_W-Wide Flange:W410X60:W410X60:209261
-254,Node 254,IfcBeam,M_W-Wide Flange:W410X60:W410X60:209262
-255,Node 255,IfcBeam,M_W-Wide Flange:W410X60:W410X60:209263
+155,Node 155,IfcFurnishingElement,M_Bed-Standard:1981 x 2032mm - King:1981 x 2032mm - King:168914
+156,Node 156,IfcSlab,Floor:Finish Floor - Ceramic Tile:169866
+157,Node 157,IfcSlab,Floor:Finish Floor - Wood:170352
+158,Node 158,IfcSlab,Floor:Finish Floor - Ceramic Tile:170785
+159,Node 159,IfcSlab,Floor:Finish Floor - Ceramic Tile:171230
+160,Node 160,IfcSlab,Floor:Finish Floor - Ceramic Tile:171261
+161,Node 161,IfcSlab,Floor:Finish Floor - Wood:171292
+162,Node 162,IfcSlab,Floor:Finish Floor - Ceramic Tile:171444
+163,Node 163,IfcFurnishingElement,M_Bed-Standard:1525 x 2007mm - Queen:1525 x 2007mm - Queen:169008
+164,Node 164,IfcSlab,Floor:Finish Floor - Wood:169308
+165,Node 165,IfcSlab,Floor:Finish Floor - Wood:169093
+166,Node 166,IfcSlab,Floor:Finish Floor - Wood:169188
+167,Node 167,IfcSlab,Floor:Finish Floor - Wood:169354
+168,Node 168,IfcWallStandardCase,Basic Wall:Exterior - Brick on Block:138062
+169,Node 169,IfcOpeningElement,M_Single-Glass 1:0813 x 2420mm:0813 x 2420mm:171853:1
+170,Node 170,IfcOpeningElement,M_Single-Glass 1:0813 x 2420mm:0813 x 2420mm:171975:1
+171,Node 171,IfcWallStandardCase,Basic Wall:Exterior - Brick on Block:138237
+172,Node 172,IfcDoor,M_Single-Glass 1:0813 x 2420mm:0813 x 2420mm:171853
+173,Node 173,IfcOpeningElement,M_Fixed:2800mm x 2410mm:2800mm x 2410mm:180318:1
+174,Node 174,IfcDoor,M_Single-Glass 1:0813 x 2420mm:0813 x 2420mm:171975
+175,Node 175,IfcWindow,M_Fixed:2800mm x 2410mm:2800mm x 2410mm:180318
+176,Node 176,IfcOpeningElement,M_Fixed:819mm x 759mm:819mm x 759mm:180663:1
+177,Node 177,IfcWindow,M_Fixed:819mm x 759mm:819mm x 759mm:180663
+178,Node 178,IfcOpeningElement,M_Fixed:819mm x 759mm:819mm x 759mm:180864:1
+179,Node 179,IfcWindow,M_Fixed:819mm x 759mm:819mm x 759mm:180864
+180,Node 180,IfcOpeningElement,M_Casement:819mm x 759mm:819mm x 759mm:180994:1
+181,Node 181,IfcWindow,M_Casement:819mm x 759mm:819mm x 759mm:180994
+182,Node 182,IfcOpeningElement,M_Fixed:2800mm x 2410mm:2800mm x 2410mm:181096:1
+183,Node 183,IfcOpeningElement,M_Fixed:819mm x 759mm:819mm x 759mm:181285:1
+184,Node 184,IfcWindow,M_Fixed:2800mm x 2410mm:2800mm x 2410mm:181096
+185,Node 185,IfcWindow,M_Fixed:819mm x 759mm:819mm x 759mm:181285
+186,Node 186,IfcOpeningElement,M_Casement:819mm x 759mm:819mm x 759mm:181548:1
+187,Node 187,IfcOpeningElement,M_Fixed:819mm x 759mm:819mm x 759mm:181583:1
+188,Node 188,IfcWindow,M_Casement:819mm x 759mm:819mm x 759mm:181548
+189,Node 189,IfcWindow,M_Fixed:819mm x 759mm:819mm x 759mm:181583
+190,Node 190,IfcWallStandardCase,Basic Wall:Exterior - Brick on Block:143478
+191,Node 191,IfcOpeningElement,M_Fixed:750mm x 2200mm:750mm x 2200mm:181930:1
+192,Node 192,IfcWindow,M_Fixed:750mm x 2200mm:750mm x 2200mm:181930
+193,Node 193,IfcWallStandardCase,Basic Wall:Exterior - Brick on Block:143590
+194,Node 194,IfcOpeningElement,M_Fixed:750mm x 2200mm:750mm x 2200mm:182101:1
+195,Node 195,IfcWindow,M_Fixed:750mm x 2200mm:750mm x 2200mm:182101
+196,Node 196,IfcRoof,Basic Roof:Live Roof over Wood Joist Flat Roof:184483
+197,Node 197,IfcOpeningElement,Basic Roof:Live Roof over Wood Joist Flat Roof:184483:2
+198,Node 198,IfcSlab,Basic Roof:Live Roof over Wood Joist Flat Roof:184483
+199,Node 199,IfcWallStandardCase,Basic Wall:Exterior - Brick on Block:184944
+200,Node 200,IfcWallStandardCase,Basic Wall:Exterior - Brick on Block:185014
+201,Node 201,IfcOpeningElement,Basic Roof:Live Roof over Wood Joist Flat Roof:184483:3
+202,Node 202,IfcWallStandardCase,Basic Wall:Exterior - Brick on Block:185064
+203,Node 203,IfcWallStandardCase,Basic Wall:Exterior - Brick on Block:185101
+204,Node 204,IfcOpeningElement,Untitled
+205,Node 205,IfcWindow,M_Skylight:1180 x 1170mm:1180 x 1170mm:185337
+206,Node 206,IfcOpeningElement,Untitled
+207,Node 207,IfcFooting,Wall Foundation:Bearing Footing - 900 x 300:186596
+208,Node 208,IfcWindow,M_Skylight:1180 x 1170mm:1180 x 1170mm:185718
+209,Node 209,IfcFooting,Wall Foundation:Bearing Footing - 900 x 300:186620
+210,Node 210,IfcFooting,Wall Foundation:Bearing Footing - 900 x 300:186604
+211,Node 211,IfcFooting,Wall Foundation:Bearing Footing - 900 x 300:186612
+212,Node 212,IfcFooting,Wall Foundation:Bearing Footing - 900 x 300:186632
+213,Node 213,IfcFooting,Wall Foundation:Bearing Footing - 900 x 300:186644
+214,Node 214,IfcFooting,Wall Foundation:Bearing Footing - 900 x 300:186656
+215,Node 215,IfcCovering,Compound Ceiling:Gypsum Board:187462
+216,Node 216,IfcCovering,Compound Ceiling:Gypsum Board:187149
+217,Node 217,IfcCovering,Compound Ceiling:Gypsum Board:187483
+218,Node 218,IfcCovering,Compound Ceiling:Gypsum Board:187508
+219,Node 219,IfcCovering,Compound Ceiling:Gypsum Board:187639
+220,Node 220,IfcCovering,Compound Ceiling:Gypsum Board:187649
+221,Node 221,IfcCovering,Compound Ceiling:Gypsum Board:187659
+222,Node 222,IfcCovering,Compound Ceiling:Gypsum Board:187683
+223,Node 223,IfcCovering,Compound Ceiling:Gypsum Board:187667
+224,Node 224,IfcCovering,Compound Ceiling:Gypsum Board:187675
+225,Node 225,IfcCovering,Compound Ceiling:Gypsum Board:187691
+226,Node 226,IfcCovering,Compound Ceiling:Gypsum Board:187701
+227,Node 227,IfcWallStandardCase,Basic Wall:Interior - Furring (152 mm Stud):189901
+228,Node 228,IfcWallStandardCase,Basic Wall:Interior - Partition (92mm Stud):190140
+229,Node 229,IfcWallStandardCase,Basic Wall:Interior - Furring (152 mm Stud):190774
+230,Node 230,IfcWallStandardCase,Basic Wall:Interior - Furring (152 mm Stud):189074
+231,Node 231,IfcWallStandardCase,Basic Wall:Interior - Furring (152 mm Stud):190933
+232,Node 232,IfcFurnishingElement,M_Upper Cabinet-Double Door-Wall:1000 mm:1000 mm:191401
+233,Node 233,IfcFurnishingElement,M_Upper Cabinet-Double Door-Wall:1000 mm:1000 mm:191557
+234,Node 234,IfcFurnishingElement,M_Upper Cabinet-Double Door-Wall:1000 mm:1000 mm:191680
+235,Node 235,IfcSpace,A103
+236,Node 236,IfcWallStandardCase,Basic Wall:Interior - Partition (92mm Stud):203347
+237,Node 237,IfcRailing,Railing:1100mm Guard Rail:198972
+238,Node 238,IfcOpeningElement,M_Single-Flush:0762 x 2032mm:0762 x 2032mm:203720:1
+239,Node 239,IfcDoor,M_Single-Flush:0762 x 2032mm:0762 x 2032mm:203720
+240,Node 240,IfcOpeningElement,M_Single-Flush:0762 x 2032mm:0762 x 2032mm:204034:1
+241,Node 241,IfcWallStandardCase,Basic Wall:Interior - Partition (92mm Stud):203998
+242,Node 242,IfcDoor,M_Single-Flush:0762 x 2032mm:0762 x 2032mm:204034
+243,Node 243,IfcWallStandardCase,Basic Wall:Interior - Partition (92mm Stud):204300
+244,Node 244,IfcWallStandardCase,Basic Wall:Interior - Partition (92mm Stud):204493
+245,Node 245,IfcFurnishingElement,M_Vanity Cabinet-Double Door Sink Unit:650 x 450 mm:650 x 450 mm:204934
+246,Node 246,IfcSpace,B204
+247,Node 247,IfcFurnishingElement,M_Vanity Cabinet-Double Door Sink Unit:650 x 450 mm:650 x 450 mm:205264
+248,Node 248,IfcFurnishingElement,M_Vanity Cabinet-Double Door Sink Unit:650 x 450 mm:650 x 450 mm:205239
+249,Node 249,IfcFurnishingElement,M_Upper Cabinet-Double Door-Wall:1000mm:1000mm:191768
+250,Node 250,IfcFurnishingElement,M_Upper Cabinet-Double Door-Wall:1000 mm:1000 mm:192153
+251,Node 251,IfcFurnishingElement,M_Upper Cabinet-Double Door-Wall:1000 mm:1000 mm:192331
+252,Node 252,IfcFurnishingElement,M_Upper Cabinet-Double Door-Wall:1000 mm:1000 mm:192508
+253,Node 253,IfcSpace,B103
+254,Node 254,IfcWallStandardCase,Basic Wall:Interior - Furring (38 mm Stud):217414
+255,Node 255,IfcSlab,Floor:150mm Exterior Slab on Grade:216552
 256,Node 256,IfcWallStandardCase,Basic Wall:Interior - Furring (38 mm Stud):217415
-257,Node 257,IfcSlab,Floor:150mm Exterior Slab on Grade:216552
-258,Node 258,IfcWallStandardCase,Basic Wall:Interior - Furring (38 mm Stud):217414
-259,Node 259,IfcSlab,Floor:150mm Exterior Slab on Grade:216507
-260,Node 260,IfcWallStandardCase,Basic Wall:Interior - Furring (38 mm Stud):217417
-261,Node 261,IfcWallStandardCase,Basic Wall:Interior - Furring (38 mm Stud):217577
-262,Node 262,IfcWallStandardCase,Basic Wall:Interior - Furring (38 mm Stud):217578
-263,Node 263,IfcWallStandardCase,Basic Wall:Interior - Furring (38 mm Stud):217416
-264,Node 264,IfcWallStandardCase,Basic Wall:Interior - Furring (38 mm Stud):217580
-265,Node 265,IfcSite,Default
-266,Node 266,IfcWallStandardCase,Basic Wall:Interior - Furring (38 mm Stud):217579
-267,Node 267,IfcBuilding,Untitled
-268,Node 268,IfcSpace,B203
-269,Node 269,IfcRailing,Railing:1100mm Guard Rail:198972
-270,Node 270,IfcWallStandardCase,Basic Wall:Interior - Partition (92mm Stud):203347
-271,Node 271,IfcOpeningElement,M_Single-Flush:0762 x 2032mm:0762 x 2032mm:203720:1
-272,Node 272,IfcDoor,M_Single-Flush:0762 x 2032mm:0762 x 2032mm:203720
-273,Node 273,IfcWallStandardCase,Basic Wall:Interior - Partition (92mm Stud):203998
-274,Node 274,IfcOpeningElement,M_Single-Flush:0762 x 2032mm:0762 x 2032mm:204034:1
-275,Node 275,IfcDoor,M_Single-Flush:0762 x 2032mm:0762 x 2032mm:204034
-276,Node 276,IfcWallStandardCase,Basic Wall:Interior - Partition (92mm Stud):204493
-277,Node 277,IfcWallStandardCase,Basic Wall:Interior - Partition (92mm Stud):204300
-278,Node 278,IfcFurnishingElement,M_Vanity Cabinet-Double Door Sink Unit:650 x 450 mm:650 x 450 mm:204934
-279,Node 279,IfcSpace,B204
-280,Node 280,IfcFurnishingElement,M_Vanity Cabinet-Double Door Sink Unit:650 x 450 mm:650 x 450 mm:205239
-281,Node 281,IfcSpace,A204
-282,Node 282,IfcFurnishingElement,M_Vanity Cabinet-Double Door Sink Unit:650 x 450 mm:650 x 450 mm:205264
-283,Node 283,IfcFurnishingElement,M_Table-Coffee:0610 x 0610 x 0610mm:0610 x 0610 x 0610mm:206283
-284,Node 284,IfcFurnishingElement,M_Vanity Cabinet-Double Door Sink Unit:650 x 450 mm:650 x 450 mm:205265
-285,Node 285,IfcSpace,A104
-286,Node 286,IfcFurnishingElement,M_Vanity Cabinet-Double Door Sink Unit:450 x 450 mm:450 x 450 mm:205548
-287,Node 287,IfcSpace,A201
-288,Node 288,IfcSpace,B104
-289,Node 289,IfcBuildingStorey,Roof
-290,Node 290,IfcBuildingStorey,Level 2
-291,Node 291,IfcBuildingStorey,T/FDN
-292,Node 292,IfcBuildingStorey,Level 1
-293,Node 293,IfcSpace,A101
+257,Node 257,IfcWallStandardCase,Basic Wall:Interior - Furring (38 mm Stud):217416
+258,Node 258,IfcSpace,A204
+259,Node 259,IfcWallStandardCase,Basic Wall:Interior - Furring (38 mm Stud):217417
+260,Node 260,IfcFurnishingElement,M_Vanity Cabinet-Double Door Sink Unit:650 x 450 mm:650 x 450 mm:205265
+261,Node 261,IfcSpace,A104
+262,Node 262,IfcWallStandardCase,Basic Wall:Interior - Furring (38 mm Stud):217577
+263,Node 263,IfcFurnishingElement,M_Vanity Cabinet-Double Door Sink Unit:450 x 450 mm:450 x 450 mm:205548
+264,Node 264,IfcSpace,B203
+265,Node 265,IfcSpace,A202
+266,Node 266,IfcFurnishingElement,M_Table-Coffee:0610 x 0610 x 0610mm:0610 x 0610 x 0610mm:206283
+267,Node 267,IfcFurnishingElement,M_Table-Coffee:0610 x 0610 x 0610mm:0610 x 0610 x 0610mm:206502
+268,Node 268,IfcSpace,B202
+269,Node 269,IfcFurnishingElement,M_Table-Coffee:0610 x 0610 x 0610mm:0610 x 0610 x 0610mm:206675
+270,Node 270,IfcSpace,A203
+271,Node 271,IfcFurnishingElement,M_Table-Coffee:0610 x 0610 x 0610mm:0610 x 0610 x 0610mm:206876
+272,Node 272,IfcWallStandardCase,Basic Wall:Interior - Furring (38 mm Stud):217578
+273,Node 273,IfcBeam,M_W-Wide Flange:W310X60:W310X60:207325
+274,Node 274,IfcBeam,M_W-Wide Flange:W410X60:W410X60:208949
+275,Node 275,IfcBeam,M_W-Wide Flange:W410X60:W410X60:209121
+276,Node 276,IfcBeam,M_W-Wide Flange:W410X60:W410X60:209166
+277,Node 277,IfcBeam,M_W-Wide Flange:W310X60:W310X60:209260
+278,Node 278,IfcBeam,M_W-Wide Flange:W410X60:W410X60:209261
+279,Node 279,IfcWallStandardCase,Basic Wall:Interior - Furring (38 mm Stud):217579
+280,Node 280,IfcBeam,M_W-Wide Flange:W410X60:W410X60:209262
+281,Node 281,IfcSlab,Floor:150mm Exterior Slab on Grade:216507
+282,Node 282,IfcBeam,M_W-Wide Flange:W410X60:W410X60:209263
+283,Node 283,IfcWallStandardCase,Basic Wall:Interior - Furring (152 mm Stud):193247
+284,Node 284,IfcFurnishingElement,M_Upper Cabinet-Double Door-Wall:1000mm:1000mm:192610
+285,Node 285,IfcWallStandardCase,Basic Wall:Interior - Furring (152 mm Stud):194166
+286,Node 286,IfcMember,Stair:Residential - 200mm Max Riser 250mm Tread:198878:1
+287,Node 287,IfcStairFlight,Stair:Residential - 200mm Max Riser 250mm Tread:198878:1
+288,Node 288,IfcMember,Stair:Residential - 200mm Max Riser 250mm Tread:198878:2
+289,Node 289,IfcStair,Stair:Residential - 200mm Max Riser 250mm Tread:198878
+290,Node 290,IfcRailing,Railing:900mm Handrail Only:198880
+291,Node 291,IfcBuilding,Untitled
+292,Node 292,IfcSite,Default
+293,Node 293,IfcWallStandardCase,Basic Wall:Interior - Furring (38 mm Stud):217580
